@@ -5,7 +5,7 @@
 - 📰 I don't have a common social account, and I don't often check the exchanges on GitHub. If you have anything, please leave a message on my blog or knowledge base to explain your purpose.
 - 📓Some of my addresses:
 
-1.blog:https://fcjz.github.io
+1.blog:
 
 2.github:https://github.com/fcjz
 
@@ -13,9 +13,7 @@
 
 4.npm:https://www.npmjs.com/~fcjz
 
-5.notion:
-
-6.knowledge base:
+5.knowledge base:
 
 <!---
 fcjz/fcjz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
