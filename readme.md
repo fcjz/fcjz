@@ -5,7 +5,7 @@
 - 📰 I don't have a common social account, and I don't often check the exchanges on GitHub. If you have anything, please leave a message on my blog or knowledge base to explain your purpose.
 - 📓Some of my addresses:
 
-1.blog:
+1.blog:https://fcjz.github.io
 
 2.github:https://github.com/fcjz
 
@@ -13,7 +13,15 @@
 
 4.npm:https://www.npmjs.com/~fcjz
 
-5.knowledge base:
+5.knowledge base:https://fcjz.github.io/experiment
+
+Hey, I finally have a regular social media account in qoto.org (a mastodon instance).
+
+Originally, I was still inconvenienced by social in blogs and knowledge bases. They are supposed to be places for me to record knowledge and summarize experiences. They should not be used as a social occasion to say unrelated things, although I do need a comment feature to communicate article content with friends.
+
+mastodon:https:https://qoto.org/@fcjz
+
+Contact me at mastodon in the future, I will check the private message and reply in time (as long as you do not use a blocked server and do not post harassing messages and advertisements)
 
 <!---
 fcjz/fcjz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
