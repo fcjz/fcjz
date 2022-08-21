@@ -5,7 +5,7 @@
 - 📰 I don't have a common social account, and I don't often check the exchanges on GitHub. If you have anything, please leave a message on my blog or knowledge base to explain your purpose.
 - 📓Some of my addresses:
 
-1.blog:https://fcjz.github.io
+1.blog:https://fcjz.github.io/blog
 
 2.github:https://github.com/fcjz
 
@@ -13,9 +13,11 @@
 
 4.npm:https://www.npmjs.com/~fcjz
 
-5.knowledge base:
+5.knowledge base:https://github.io/notebox
 
-6.experiment：https://fcjz.github.io/experiment
+6.experiment:https://fcjz.github.io/experiment
+
+7.home:https://fcjz.github.io
 
 Hey, I finally have a regular social media account in qoto.org (a mastodon instance).
 
