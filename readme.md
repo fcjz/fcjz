@@ -1,4 +1,6 @@
-# Self introduction
+[![Header](https://raw.githubusercontent.com/fcjz/<OWNER>/<OWNER>/readme_header.jpg "sky")](https://some-url.dev/)
+
+# 💡Self introduction
 
 - 📝 I’m @fcjz.
 - 📑 I am interested in almost everything, love to try new things, love to learn and create.
@@ -7,32 +9,38 @@
 - 📰 I don't have a common social account, and I don't often check the exchanges on GitHub. If you have anything, please leave a message on my blog or knowledge base to explain your purpose.
 - 📓I've always been on the fringes of the Internet, maybe you'll find me in a little corner, but I'm not without a home, I also have some fixed habitats, the links are below, which includes my blog and knowledge base.
 
-# 
+# 📎some links
 
-1.blog:https://fcjz.github.io/blog
+- home:https://fcjz.github.io
 
-2.github:https://github.com/fcjz
+- blog:https://fcjz.github.io/blog
 
-3.gitlab:https://gitlab.com/fcjz
+- github:https://github.com/fcjz
 
-4.npm:https://www.npmjs.com/~fcjz
+- gitlab:https://gitlab.com/fcjz
 
-5.knowledge base:https://fcjz.github.io/notebox
+- npm:https://www.npmjs.com/~fcjz
 
-6.experiment:https://fcjz.github.io/experiment
+- knowledge base:https://fcjz.github.io/notebox
 
-7.home:https://fcjz.github.io
+- experiment:https://fcjz.github.io/experiment
+
+- BBS:https://fcjz.freeflarum.com/
+
+- message board:https://note.ms/fcjz
+
+- bearblog:https://fcjz.bearblog.dev/
+
+- mail:imagine-cyf@yandex.com
+
+# 📋SNS
 
 Hey, I finally have a regular social media account in qoto.org (a mastodon instance).
 
 Originally, I was still inconvenienced by social in blogs and knowledge bases. They are supposed to be places for me to record knowledge and summarize experiences. They should not be used as a social occasion to say unrelated things, although I do need a comment feature to communicate article content with friends.
 
-mastodon:https:https://qoto.org/@fcjz
+- mastodon:https:https://qoto.org/@fcjz
 
 Contact me at mastodon in the future, I will check the private message and reply in time (as long as you do not use a blocked server and do not post harassing messages and advertisements)
 
-<!---
-fcjz/fcjz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
