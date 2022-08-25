@@ -1,4 +1,4 @@
-![sky]
+![sky](https://github.com/fcjz/fcjz/blob/main/sky.jpg)
 
 # 💡Self introduction
 
