@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/fcjz/<OWNER>/<OWNER>/readme_header.jpg "sky")](https://some-url.dev/)
+![Header](https://raw.githubusercontent.com/fcjz/<OWNER>/<OWNER>/readme_sky.jpg "sky")
 
 # 💡Self introduction
 
