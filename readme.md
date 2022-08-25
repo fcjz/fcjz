@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/fcjz/<OWNER>/<OWNER>/readme_sky.jpg "sky")
+![sky](https://github.com/fcjz/fcjz/blob/main/sky.jpg)
 
 # 💡Self introduction
 
