@@ -13,7 +13,7 @@
 
 4.npm:https://www.npmjs.com/~fcjz
 
-5.knowledge base:https://github.io/notebox
+5.knowledge base:https://fcjz.github.io/notebox
 
 6.experiment:https://fcjz.github.io/experiment
 
