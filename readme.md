@@ -1,4 +1,4 @@
-![sky](https://github.com/fcjz/fcjz/blob/main/sky.jpg)
+![sky](https://github.com/fcjz/fcjz/blob/main/sky.jpg)  ![hello](https://github.com/fcjz/fcjz/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-08-26%20121253.png)
 
 #
 
