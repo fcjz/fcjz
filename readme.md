@@ -5,6 +5,7 @@
 # 💡Self introduction
 
 - 📝 I’m @fcjz.
+- 🧾 I'm a entrepreneur/Freelance.
 - 📑 I am interested in almost everything, love to try new things, love to learn and create.
 - 📄 I am a student, but only a small part of my time is spent on my studies, most of the time I am obsessed with researching things that interest me.
 - 📃 I have no need to seek cooperation. I just signed up for GitHub to have fun, so you can see that I did not write my readme file very carefully. It is the same as the contact information below. If you have anything, please go to my knowledge base. Find me with the blog and explain your purpose.
