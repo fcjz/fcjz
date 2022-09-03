@@ -46,4 +46,14 @@ Originally, I was still inconvenienced by social in blogs and knowledge bases. T
 
 Contact me at mastodon in the future, I will check the private message and reply in time (as long as you do not use a blocked server and do not post harassing messages and advertisements)
 
+# 📌Team
+
+As you can see, I created a team and it's mundane-mustard.
+
+team current website:https://fcjz.github.io/musdane-mustard
+
+I'm the only member of the team, the CEO, the CTO, the COO, the CIO, and the UFO.
+
+Our main development direction is knowledge management and website construction, and some projects are currently under development, so stay tuned.
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
