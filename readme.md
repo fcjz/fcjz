@@ -16,7 +16,7 @@
 
 - 🏚home:https://fcjz.github.io  (This homepage is made using TiddlyWiki, it's more in line with my personality and features, I haven't seen such a readme so far, and I'm considering adding it to the readme.)
 
-- blog:https://fcjz.github.io/blog  (Not yet built, please look forward to it)
+- blog:https://fcjz.github.io/blog  (Not finished yet, stay tuned)
 
 - github:https://github.com/fcjz
 
@@ -24,7 +24,7 @@
 
 - npm:https://www.npmjs.com/~fcjz
 
-- knowledge base:https://fcjz.github.io/notebox  (Not yet built, please look forward to it)
+- knowledge base:https://fcjz.github.io/notebox  (Not finished yet, stay tuned)
 
 - experiment:https://fcjz.github.io/experiment
 
