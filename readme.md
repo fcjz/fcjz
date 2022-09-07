@@ -54,6 +54,8 @@ team current website:https://fcjz.github.io/musdane-mustard
 
 I'm the only member of the team, the CEO, the CTO, the COO, the CIO, and the UFO.
 
+I mainly learn HTML, CSS and JavaScript, but also like nodejs, PHP, python and Go, which I use for projects.
+
 Our main development direction is knowledge management and website construction, and some projects are currently under development, so stay tuned.
 
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
