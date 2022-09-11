@@ -50,7 +50,7 @@ Contact me at mastodon in the future, I will check the private message and reply
 
 As you can see, I created a team and it's mundane-mustard.
 
-team current website:https://fcjz.github.io/musdane-mustard
+team current website:https://fcjz.github.io/mundane-mustard
 
 I'm the only member of the team, the CEO, the CTO, the COO, the CIO, and the UFO.
 
