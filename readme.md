@@ -58,4 +58,6 @@ I mainly learn HTML, CSS and JavaScript, but also like nodejs, PHP, python and G
 
 Our main development direction is knowledge management and website construction, and some projects are currently under development, so stay tuned.
 
+Thank you for your support in front of the screen.🙏
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
