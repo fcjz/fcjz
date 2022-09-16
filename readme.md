@@ -60,4 +60,12 @@ Our main development direction is knowledge management and website construction,
 
 Thank you for your support in front of the screen.🙏
 
+# 🗄Now
+
+Currently in retreat to improve the coding level, do not disturb (except for those who are familiar with me).
+
+The status quo certainly doesn't stop there, and this part of the README is to be added and will continue to be updated.
+
+It's cool to use GitHub as a blog.
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
