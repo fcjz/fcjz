@@ -48,6 +48,8 @@ Contact me at mastodon in the future, I will check the private message and reply
 
 # 📌Team
 
+![x](https://github.com/fcjz/fcjz/blob/main/x.png)
+
 As you can see, I created a team and it's mundane-mustard.
 
 team current website:https://fcjz.github.io/mundane-mustard
