@@ -70,4 +70,8 @@ The status quo certainly doesn't stop there, and this part of the README is to b
 
 It's cool to use GitHub as a blog.
 
+Created a new awesome list of interesting things that you like, I hope you enjoy it too.
+
+link：https://github.com/fcjz/awesome
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
