@@ -74,4 +74,8 @@ Created a new awesome list of interesting things that you like, I hope you enjoy
 
 link：https://github.com/fcjz/awesome
 
+The work mode that is always practiced: learning→thinking→imagining→creating→sharing.
+
+abbreviated as "ltics".
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=true)
