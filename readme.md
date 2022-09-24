@@ -54,7 +54,7 @@ As you can see, I created a team and it's mundane-mustard.
 
 team current website:https://fcjz.github.io/mundane-mustard
 
-I'm the only member of the team, the CEO, the CTO, the COO, the CIO, and the UFO.
+I'm the only member of the team, the CEO, the CTO, the COO, the CIO, the CMO, and the UFO.
 
 I mainly learn HTML, CSS and JavaScript, but also like nodejs, PHP, python and Go, which I use for projects.
 
