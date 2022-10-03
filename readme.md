@@ -16,7 +16,7 @@
 
 - 🏚home:https://fcjz.github.io  (This homepage is made using TiddlyWiki, it's more in line with my personality and features, I haven't seen such a readme so far, and I'm considering adding it to the readme.)
 
-- blog:https://fcjz.github.io/blog  (Not finished yet, stay tuned)
+- blog:https://fcjz.github.io/blog
 
 - github:https://github.com/fcjz
 
