@@ -24,7 +24,7 @@
 
 - npm:https://www.npmjs.com/~fcjz
 
-- knowledge base:https://fcjz.github.io/notebox  (Not finished yet, stay tuned)
+- knowledge base:https://fcjz.github.io/notebox
 
 - experiment:https://fcjz.github.io/experiment
 
