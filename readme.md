@@ -34,6 +34,8 @@
 
 - bearblog:https://fcjz.bearblog.dev/
 
+- pixiv:https://pixiv.net/fcjz
+
 - mail:imagine-cyf@yandex.com
 
 # 📋SNS
