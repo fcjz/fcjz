@@ -34,7 +34,7 @@
 
 - bearblog:https://fcjz.bearblog.dev/
 
-- pixiv:https://pixiv.net/fcjz
+- pixiv:https://www.pixiv.net/users/69624528
 
 - mail:imagine-cyf@yandex.com
 
