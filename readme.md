@@ -83,3 +83,5 @@ abbreviated as "ltics".
 I love TiddlyWiki.
 
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcjz)](https://github.com/anuraghazra/github-readme-stats)
