@@ -80,4 +80,6 @@ The work mode that is always practiced: learning→thinking→imagining→creati
 
 abbreviated as "ltics".
 
+I love TiddlyWiki.
+
 ![fcjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcjz&theme=graywhite&show_icons=false)
