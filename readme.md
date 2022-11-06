@@ -36,6 +36,8 @@
 
 - pixiv:https://www.pixiv.net/users/69624528
 
+- bangumi:https://bgm.tv/user/fcjz
+
 - mail:imagine-cyf@yandex.com
 
 # 📋SNS
