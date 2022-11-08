@@ -34,7 +34,7 @@
 
 - bearblog:https://fcjz.bearblog.dev/
 
-- pixiv:https://www.pixiv.net/users/69624528
+- pixiv:https://www.pixiv.net/users/87162343
 
 - bangumi:https://bgm.tv/user/fcjz
 
