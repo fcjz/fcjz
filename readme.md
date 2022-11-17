@@ -38,6 +38,8 @@
 
 - bangumi:https://bgm.tv/user/fcjz
 
+- gitter:https://gitter.im/fcjz/community
+
 - mail:imagine-cyf@yandex.com
 
 # 📋SNS
