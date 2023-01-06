@@ -36,11 +36,19 @@
 
 - pixiv:https://www.pixiv.net/users/87162343
 
+- tumblr:https://fcjz.tumblr.com/
+
+- reddit:https://reddit.com/user/fcjz/
+
+- discord:fcjz
+
 - bangumi:https://bgm.tv/user/fcjz
 
 - gitter:https://gitter.im/fcjz/community
 
 - mail:imagine-cyf@yandex.com
+
+IRC and XMPP are still in preparation.
 
 # 📋SNS
 
