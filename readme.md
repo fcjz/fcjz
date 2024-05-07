@@ -40,8 +40,4 @@ fcjz,
 <a target="_blank" href="https://www.codepen.io/fcjz" style="display: inline-block;"><img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" /></a>
 <a target="_blank" href="https://www.youtube.com/fcjz" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/fcjz" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fcjz&show_icons=true&locale=en" alt="fcjz" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcjz&" alt="fcjz" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fcjz&show_icons=true&locale=en&layout=compact" alt="fcjz" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcjz" alt="fcjz" /></a></p>
 
